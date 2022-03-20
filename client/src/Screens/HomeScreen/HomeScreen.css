@@ -1,0 +1,26 @@
+.homeScreen-header {
+	font-size: 50px;
+	font-weight: 600;
+	color: lightgray;
+}
+.homeScreen-roomContainer {
+	display: flex;
+	flex-direction: column;
+	max-width: 350px;
+	margin: auto;
+	gap: 10px;
+	background-color: #242526;
+	padding: 10px;
+	box-sizing: border-box;
+	border-radius: 5px;
+	box-shadow: 1px 1px 10px 2px;
+}
+.homeScreen p {
+	font-size: 20px;
+	color: lightgray;
+}
+
+.homeScreen button {
+	width: 50%;
+	margin: 10px auto;
+}
