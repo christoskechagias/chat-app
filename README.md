@@ -48,8 +48,5 @@ $ npm start
 ```
 The app should now be running locally at http://localhost:3000.
 
-## Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request. Please include a description of the changes you have made and why they are necessary.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
