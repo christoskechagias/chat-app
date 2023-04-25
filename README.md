@@ -21,32 +21,33 @@ To run the app locally, you will need to have Node.js and npm installed on your 
 
 1. Clone this repository to your local machine by running the following command in your terminal:
 ```
-$ git clone https://github.com/kechayias/chat-app.git
+git clone https://github.com/kechayias/chat-app.git
 ```
 2. Navigate to the cloned repository:
 ```
-$ cd chat-app
+cd chat-app
 ```
 3. Install the server dependencies:
 ```
-$ cd server
-$ npm install  
+cd server
+npm install  
 ```
 4. Start the server:
 ```
-$ npm run dev 
+npm run dev 
 ```
 
 5. Install the client dependencies:
 ```
-$ cd client 
-$ npm install
+cd client 
+npm install
 ```
 6. Start the client:
 ```
-$ npm start 
+npm start 
 ```
 The app should now be running locally at http://localhost:3000.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE.md) file for details.
